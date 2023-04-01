@@ -1,0 +1,16 @@
+button{
+ border:none;
+ width:50px;
+ background:black;
+ color:white;
+ font-size:20px;
+ transition:0,3s all;
+
+}
+button:hover{
+  background:green;
+  
+}
+
+
+  
